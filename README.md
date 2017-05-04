@@ -1,6 +1,4 @@
 # hello-world
-just another repository
-
 
 hi, names tony
 
